@@ -17,7 +17,7 @@ Final-year Computer Science student at [IIT Jammu](https://www.iitjammu.ac.in/).
 
 ## 📫 Let's Connect
 
-- Email: [ajaaravbvg@gmail.com](mailto:ajaaravbvg@gmail.com)
+- Personal Email: [ajaaravbvg@gmail.com](mailto:ajaaravbvg@gmail.com)
 - Twitter: [@aaravjn](https://twitter.com/aaravjn)
 - LinkedIn: [aaravjn](https://www.linkedin.com/in/aaravjn/)
 
